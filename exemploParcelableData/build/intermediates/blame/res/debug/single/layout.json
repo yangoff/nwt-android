@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/build/intermediates/res/merged/debug/layout/activity_class.xml",
+        "source": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/src/main/res/layout/activity_class.xml"
+    },
+    {
+        "merged": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/build/intermediates/res/merged/debug/layout/student.xml",
+        "source": "/home/bruno/AmbienteJava/projetos/senai-mobile/NorthWindTraders/exemploParcelableData/src/main/res/layout/student.xml"
+    }
+]
